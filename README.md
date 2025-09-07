@@ -57,5 +57,46 @@ Potential growth opportunities
 Formulated data-driven recommendations to guide the product strategy.
 
 
-# Key Findings
+# Top 10 Key Findings
+
+### 1) Income Utilization is Moderate
+Avg. income utilization is 42.82%, meaning people spend less than half of their income, suggesting some savings culture.
+
+### 2) Salaried IT Employees Drive Income & Spending
+They have the highest average utilization (47–54%) and also contribute the largest share of income (477M) and spending (203M).
+This group is the most critical customer base.
+
+### 3) Younger Groups (25–34, 35–45) are the Core Drivers
+These age groups contribute ~70% of both income and spending.
+Spending is highest in 25–34 (203M) while income is highest in 25–34 (466M).
+
+### 4) Credit Cards Dominate Payments
+Credit cards account for the largest share of spending (40.7%), especially in Bills, Travel, Electronics, and Apparel categories.
+This indicates strong dependency on credit usage.
+
+### 5) High Potential in Metro Cities
+Mumbai, Bengaluru, and Delhi NCR lead in both income and spending.
+These metros should be the primary launch markets for a new credit card.
+
+### 6) Gender-wise Insights
+Males contribute ~67% of spending (357M) and higher income across all occupations.
+Females spend proportionally more on Health & Wellness and Apparel, even though their income is lower.
+
+### 7) Marital Status Impact
+
+Married individuals account for ~81% of total spending (429M), showing they are the major spenders.
+Singles contribute only 19%, but their spending is more skewed toward Entertainment and Food.
+
+### 8) High-Spend Categories for Credit Cards
+Credit card spends dominate Bills (44%), Travel (45%), Electronics (44%), and Apparel (41%).
+These categories can be leveraged for cashback/reward partnerships.
+
+### 9) Category Growth Opportunities
+
+Entertainment and Food are growing discretionary spend areas where credit cards can increase wallet share.
+
+### 10) Seasonality – Festive Peak
+Spending peaks in September (festive season), with maximum usage of credit cards.
+Ideal time for credit card launches, festive offers, and bonus reward campaigns.
+
 
