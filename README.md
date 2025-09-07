@@ -123,6 +123,7 @@ Offer extra benefits for online spending (e-commerce, bill payments) to capture 
 Start with Mumbai, Bengaluru, Delhi NCR, then expand to Hyderabad & Chennai after establishing a strong base.
 Partner with local merchants & service providers for exclusive offers
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Looking for Opportunities
 
@@ -131,3 +132,4 @@ Partner with local merchants & service providers for exclusive offers
 ### If you know of any opportunities or would like to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/pruthviraj-kadam-patil/) or via email at pruthvirajkadam009@gmail.com
 
 ### Thanks in Advance
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
