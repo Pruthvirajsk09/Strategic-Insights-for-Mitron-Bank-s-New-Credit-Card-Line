@@ -100,3 +100,34 @@ Spending peaks in September (festive season), with maximum usage of credit cards
 Ideal time for credit card launches, festive offers, and bonus reward campaigns.
 
 
+# Recommendation
+
+### 1) Target Customer Segments
+Focus on Salaried IT employees (25–45 years) in metros (Mumbai, Bengaluru, Delhi NCR) since they have highest income & spending potential.
+Launch a premium rewards credit card for this group.
+
+### 2) Category-Specific Benefits
+Provide higher cashback/rewards in categories where credit cards dominate:
+Bills & Utilities (high recurring spend – reward loyalty).
+Apparel & Health & Wellness (partner with popular brands for discounts).
+
+### 3) Product Diversification
+Women-focused Credit Card: Special benefits in Health, Apparel, Wellness, and Groceries to attract female customers.
+Family/Household Card: Designed for married couples, offering joint benefits and family expense tracking.
+
+### 4) Customer Engagement & Loyalty
+Introduce a tiered reward program (Silver, Gold, Platinum) based on spending levels.
+Offer extra benefits for online spending (e-commerce, bill payments) to capture digital-savvy customers.
+
+### 5) Metro-Centric Launch Strategy
+Start with Mumbai, Bengaluru, Delhi NCR, then expand to Hyderabad & Chennai after establishing a strong base.
+Partner with local merchants & service providers for exclusive offers
+
+
+# Looking for Opportunities
+
+### I am actively seeking internship or entry-level opportunities in Data Analytics / Data Science.
+### Skills: Python, SQL, Power BI, Excel
+### If you know of any opportunities or would like to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/pruthviraj-kadam-patil/) or via email at pruthvirajkadam009@gmail.com
+
+### Thanks in Advance
