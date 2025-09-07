@@ -28,7 +28,7 @@ Reviewed the problem statement provided by Mitron Bank to understand the goal: a
 
 Worked with the sample dataset of 4000 customers, which included customer demographics, online spend data, and city-wise information.
 
-Performed data cleaning and preprocessing to handle missing values, inconsistent data types, and outliers.
+Performed data cleaning and preprocessing to handle missing values, inconsistent data types.
 
 ### 3) Define Key Metrics and Insights
 Based on guidance from the strategy team, identified important metrics to analyze, such as:
@@ -54,4 +54,6 @@ Potential growth opportunities
 
 Formulated data-driven recommendations to guide the product strategy.
 
+
+# Key Findings
 
