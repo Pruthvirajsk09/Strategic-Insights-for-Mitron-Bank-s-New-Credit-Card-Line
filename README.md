@@ -39,6 +39,8 @@ Age and income distribution
 
 City-wise customer segmentation
 
+Payment type distribution
+
 ### 4) Develop Interactive Visual Solution
 Created an interactive visual solution that displays clear, easy-to-understand charts and KPIs to help the strategy team explore the data intuitively.
 
