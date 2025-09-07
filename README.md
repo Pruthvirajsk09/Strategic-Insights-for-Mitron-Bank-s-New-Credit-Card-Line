@@ -21,16 +21,16 @@ ultimately supporting Mitron Bank in making informed strategic decisions.
 
 # Project Steps
 
-### 1 Understand the Business Problem
+### 1) Understand the Business Problem
 Reviewed the problem statement provided by Mitron Bank to understand the goal: analyze customer data to support the launch of a new credit card product.
 
-Data Collection and Exploration
+### 2) Data Collection and Exploration
 
 Worked with the sample dataset of 4000 customers, which included customer demographics, online spend data, and city-wise information.
 
 Performed data cleaning and preprocessing to handle missing values, inconsistent data types, and outliers.
 
-Define Key Metrics and Insights
+### 3) Define Key Metrics and Insights
 Based on guidance from the strategy team, identified important metrics to analyze, such as:
 
 Customer spending patterns by category
@@ -39,15 +39,10 @@ Age and income distribution
 
 City-wise customer segmentation
 
-Online vs offline spending trends
-
-Data Enrichment (Optional)
-Incorporated additional external data sources (e.g., demographic data, economic indicators) to provide richer insights and strengthen recommendations.
-
-Develop Interactive Visual Solution
+### 4) Develop Interactive Visual Solution
 Created an interactive visual solution that displays clear, easy-to-understand charts and KPIs to help the strategy team explore the data intuitively.
 
-Generate Actionable Insights
+### 5) Generate Actionable Insights
 
 Analyzed customer trends and behavior to highlight:
 
