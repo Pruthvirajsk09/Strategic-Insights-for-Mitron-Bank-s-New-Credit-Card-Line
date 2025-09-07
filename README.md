@@ -21,7 +21,7 @@ ultimately supporting Mitron Bank in making informed strategic decisions.
 
 # Project Steps
 
-###1 Understand the Business Problem
+### 1 Understand the Business Problem
 Reviewed the problem statement provided by Mitron Bank to understand the goal: analyze customer data to support the launch of a new credit card product.
 
 Data Collection and Exploration
