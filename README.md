@@ -1,5 +1,5 @@
 # Strategic-Insights-for-Mitron-Bank-s-New-Credit-Card-Line
-- [Live Dashboard](https://app.powerbi.com/groups/me/reports/e2ae3f38-0449-4f4f-97a6-df174d170821/c64595c1a9921e0c8737?experience=power-bi)
+- [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNThlNjQxZWMtYjY0MC00OGEwLWE2OWUtZjQ0ZDZiYTJmNWJlIiwidCI6IjgzYTI2YTFiLTkzN2MtNDMyNy1iNzEzLWM5OWUzMjQ4MjU3NCJ9)
 
 # Project Overview
 This project presents an interactive solution developed as part of a pilot project for Mitron Bank, a legacy financial institution headquartered in Hyderabad. The primary goal is to analyze customer data and generate actionable insights to support the launch of a new line of credit cards.
